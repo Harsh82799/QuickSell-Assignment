@@ -1,0 +1,17 @@
+.dashContainer{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+    background: rgb(190, 190, 196);
+    padding: 6px 9px;
+}
+
+.dashCardContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    gap: 6px;
+    width : 300px;
+}
